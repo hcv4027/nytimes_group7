@@ -1,0 +1,41 @@
+.header {
+    background: navy;
+    color: white;
+    text-align: center;
+    height: 150px;
+    padding: 30px;
+    line-height: 150px;
+    border-radius: 5px;
+    margin: auto;
+    width: 85%;
+}
+
+h5 {
+    background: lightgray;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgray;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 5px
+    
+}
+
+.col-lg-12{
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgray;
+    border-radius: 5px;
+}
+
+.container {
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgray;
+ }
+
+
+footer{
+    display: block;
+    text-align: center;
+}
